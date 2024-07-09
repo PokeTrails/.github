@@ -7,9 +7,9 @@ This is a full-stack MERN application that is being built for the Coder Academy 
 
 You can take a look at the repositories for this project below:
 
-- Documentation
-- Front-End (React)
-- Back-end (MongoDB/Express)
+- [Documentation](https://github.com/PokeTrails/PokeTrailsDocs)
+- [Front-End (React)](https://github.com/PokeTrails/poketrails-frontend)
+- [Back-end (MongoDB/Express)](https://github.com/PokeTrails/poketrails-backend)
 
 ## About the App
 
@@ -19,7 +19,7 @@ You can take a look at the repositories for this project below:
 
 (Add information about implemented features and the planned/in-progress features here)
 
-### Developers
+## Developers
 
 You can find our individual GitHub profiles below:
 
