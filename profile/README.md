@@ -55,6 +55,14 @@ This web application/game aims to create an enjoyable and engaging experience fo
 - View trainer stats and information
 - Delete user account if desired
 
+### To Do/Planned Features
+
+- User Settings Page
+- AuthContext to fix balance issues
+  - Check JWT expiry to log user out and delete local storage
+- Pokédex Page Redesign
+- Party component auto selects Pokémon
+
 ## Developers
 
 You can find our individual GitHub profiles below:
